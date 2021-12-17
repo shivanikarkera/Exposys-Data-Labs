@@ -257,7 +257,7 @@ header .wrapper {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  padding: 0 30px;
+  padding: 300px 30px;
   height: 100%;
   width: 100%;
   background-color: rgba(0, 0, 0, 0.432);
